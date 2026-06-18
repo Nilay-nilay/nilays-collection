@@ -35,7 +35,7 @@
 // export default Hero;
 
 
-import heroImg from "../assets/heroImg.jpg";
+import heroImg from "../assets/hero-bg.jpg";
 
 function HeroSection() {
   return (

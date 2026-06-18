@@ -1,29 +1,28 @@
 //import mobile from "../assets/products/mobile.jpg";
-import iphone from "../assets/products/iphone15.jpg";
-import samsung from "../assets/products/samsungs24.jpg";
-import oneplus from "../assets/products/OnePlus 13.jpg";
-import realme from "../assets/products/Realme-16-Pro.jpg";
-import googlepixel from "../assets/products/Google-Pixel-9.jpg";
-import DellInspiron from "../assets/products/Dell Inspiron 15 Laptop.jpg";
-import HPPavilionLaptop from "../assets/products/HP Pavilion Laptop.jpg";
-import sony from "../assets/products/Sony WH-1000XM5 Headphones.jpg";
-import BoatRockerz  from "../assets/products/Boat Rockerz 550.jpg";
-import  watch  from "../assets/products/Apple Watch Series 10.jpg"
-import  SamsungGalaxyWatch  from "../assets/products/Samsung Galaxy Watch 7.jpg";
-import  Canon  from "../assets/products/Canon EOS R50 Camera.jpg";
-import  speaker  from "../assets/products/JBL Flip 6 Speaker.jpg";
-import  LenovoIdeaPadSlim   from "../assets/products/Lenovo IdeaPad Slim 5.jpg";
+import iphone from "../assets/products/iphone-15.jpg";
+import samsung from "../assets/products/samsung-s24.jpg";
+import oneplus from "../assets/products/oneplus-13.jpg";
+import realme from "../assets/products/realme-gt-neo.jpg";
+import googlepixel from "../assets/products/google-pixel-9.jpg";
+import DellInspiron from "../assets/products/dell-inspiron-15.jpg";
+import HPPavilionLaptop from "../assets/products/hp-pavilion.jpg";
+import sony from "../assets/products/sony-wh1000xm5.jpg";
+import BoatRockerz  from "../assets/products/boat-rockerz-550.jpg";
+import  watch  from "../assets/products/apple-watch-series-10.jpg"
+import  SamsungGalaxyWatch  from "../assets/products/samsung-watch-7.jpg";
+import  Canon  from "../assets/products/canon-eos-r50.jpg";
+import  speaker  from "../assets/products/jbl-flip-6.jpg";
+import  LenovoIdeaPadSlim   from "../assets/products/lenovo-ideapad-slim5.jpg";
 
-import tshirt from "../assets/products/tshirt.jpg";
-import PoloNeckT from "../assets/products/Polo Neck T-Shirt.jpg";
-import jeans from "../assets/products/Slim Fit Jeans.jpg";
-import shirt from "../assets/products/Casual Shirt.jpg";
-import hoodie from "../assets/products/Hooded Sweatshirt.jpg";
-import kurti from "../assets/products/Women's Kurti.jpg";
-import saree from "../assets/products/Women's Saree.jpg";
-import shoes from "../assets/products/Sports Shoes.jpg";
-import wallet from "../assets/products/Leather Wallet.jpg";
-
+import tshirt from "../assets/products/cotton-tshirt.jpg";
+import PoloNeckT from "../assets/products/polo-tshirt.jpg";
+import jeans from "../assets/products/slim-fit-jeans.jpg";
+import shirt from "../assets/products/casual-shirt.jpg";
+import hoodie from "../assets/products/hoodie.jpg";
+import kurti from "../assets/products/womens-kurti.jpg";
+import saree from "../assets/products/womens-saree.jpg";
+import shoes from "../assets/products/sports-shoes.jpg";
+import wallet from "../assets/products/leather-wallet.jpg";
 
 
 
@@ -31,34 +30,34 @@ import wallet from "../assets/products/Leather Wallet.jpg";
 
 
 import beauty from "../assets/products/beauty.jpg";
-import  LakmeFaceWash from   "../assets/products/Lakme Face Wash.jpg";
-import  MamaearthVitaminCSerum from   "../assets/products/Mamaearth Vitamin C Serum.jpg";
-import  NiveaBodyLotion from   "../assets/products/Nivea Body Lotion.jpg";
-import  Maybelline from   "../assets/products/Maybelline Lipstick.jpg";
-import  DoveShampoo from   "../assets/products/Dove Shampoo.jpg";
+import  LakmeFaceWash from   "../assets/products/lakme-facewash.jpg";
+import  MamaearthVitaminCSerum from   "../assets/products/mamaearth-vitamin-c.jpg";
+import  NiveaBodyLotion from   "../assets/products/nivea-body-lotion.jpg";
+import  Maybelline from   "../assets/products/maybelline-lipstick.jpg";
+import  DoveShampoo from   "../assets/products/dove-shampoo.jpg";
 
 import toy from "../assets/products/toy.jpg";
-import Teddy from "../assets/products/Teddy Bear.jpg";
-import BuildingBlocks from "../assets/products/Building Blocks Set.jpg";
-import ToyTrain from "../assets/products/Toy Train.jpg";
+import Teddy from "../assets/products/teddy-bear.jpg";
+import BuildingBlocks from "../assets/products/building-blocks.jpg";
+import ToyTrain from "../assets/products/toy-train.jpg";
 
-import Puzzle from "../assets/products/Puzzle Game.jpg";
+import Puzzle from "../assets/products/puzzle-game.jpg";
 
-import rice from "../assets/products/Rice.jpg";
-import AashirvaadAtta from "../assets/products/Aashirvaad Atta.jpg";
+import rice from "../assets/products/rice-5kg.jpg";
+import AashirvaadAtta from "../assets/products/atta-aashirvaad.jpg";
 import grocery from "../assets/products/grocery.jpg";
-import oil from "../assets/products/oil.jpg";
-import tata from "../assets/products/Ta.jpg";
-import tatatea from "../assets/products/Tata Tea Gold.jpg";
+import oil from "../assets/products/sunflower-oil.jpg";
+import tata from "../assets/products/tata-salt.jpg";
+import tatatea from "../assets/products/tata-tea.jpg";
 
 
 
 //import home from "../assets/products/home.jpg";
-import sofaset from "../assets/products/sofa set.jpg";
-import BedFrame from "../assets/products/Bed Frame.jpg";
-import StudyTable from "../assets/products/Study Table.jpg";
-import officechair from "../assets/products/office chair.jpg";
-import TableLamp from "../assets/products/Table Lamp.jpg"
+import sofaset from "../assets/products/sofa-set.jpg";
+import BedFrame from "../assets/products/bed-frame.jpg";
+import StudyTable from "../assets/products/study-table.jpg";
+import officechair from "../assets/products/office-chair.jpg";
+import TableLamp from "../assets/products/table-lamp.jpg"
 
 
 

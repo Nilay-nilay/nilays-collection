@@ -1,4 +1,4 @@
-import heroImg from "../assets/heroImg.jpg";
+import heroImg from "../assets/hero-bg.jpg";
 
 function Contact() {
   return (

@@ -1,4 +1,4 @@
-//import mobile from "../assets/products/mobile.jpg";
+
 import iphone from "../assets/products/iphone-15.jpg";
 import samsung from "../assets/products/samsung-s24.jpg";
 import oneplus from "../assets/products/oneplus-13.jpg";
